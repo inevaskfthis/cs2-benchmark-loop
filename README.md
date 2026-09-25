@@ -66,8 +66,3 @@ given or implied.
 
 The benchmark map itself is the work of its workshop author - this repo only
 automates launching it.
-
-## License
-
-MIT - see [LICENSE](LICENSE). AutoHotkey itself is GPLv2 and is not
-redistributed in this repository.
