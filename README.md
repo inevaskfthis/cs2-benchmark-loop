@@ -3,6 +3,8 @@
 Loop-runner for the Steam Workshop FPS benchmark map
 [CS2 FPS BENCHMARK DUST2 (3240880604)](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604).
 
+[中文](READMECN.md)
+
 Launch CS2 into the benchmark round after round, verify each mount via the
 engine console log, stop the instant a round finishes, and (optionally) log
 GPU sensors from MSI Afterburner's shared memory every 5 s. Built to chase
