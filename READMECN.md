@@ -1,7 +1,7 @@
 CS2 BenchLoop
 =============
 工坊 FPS benchmark（3240880604 / de_dust2）循环跑分器。
-
+附带记录MSI Afterburner所读取的显卡参数的功能
 使用
 ----
 1. 双击 Run-BenchLoop.bat
