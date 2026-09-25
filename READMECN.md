@@ -2,6 +2,7 @@ CS2 BenchLoop
 =============
 工坊 FPS benchmark（3240880604 / de_dust2）[CS2 FPS BENCHMARK DUST2 (3240880604)](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604) 循环跑分器。
 附带记录MSI Afterburner所读取的显卡参数的功能
+需要下载[AutoHotkey](https://www.autohotkey.com/download/ahk-v2.zip)
 使用
 ----
 1. 双击 Run-BenchLoop.bat
